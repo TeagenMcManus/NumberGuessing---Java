@@ -1,1 +1,1 @@
-# NumberGuessing---Java
+# NumberGuessing Java
